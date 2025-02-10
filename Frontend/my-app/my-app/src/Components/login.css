@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(197, 222, 244);
+    width: auto;
+}
+
+.heading{
+    text-size-adjust: 20px;
+}
+.inpp{
+    height: 45px;
+    width: 300px;
+    margin-bottom: 15px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 2px;
+    color: rgb(11, 11, 11);
+}
+.starting{
+    font-size: 85px;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.button{
+    padding-right: 40px;
+  font-size: 34px;
+  padding-left: 40px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  color: rgb(8, 8, 8);
+  background-color: rgb(177, 194, 200);
+}

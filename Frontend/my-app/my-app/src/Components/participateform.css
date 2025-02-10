@@ -1,0 +1,17 @@
+.button{
+    padding-right: 40px;
+  font-size: 34px;
+  padding-left: 40px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  color: rgb(8, 8, 8);
+  background-color: rgb(177, 194, 200);
+  margin-bottom: 50px;
+}
+.starting{
+    font-size: 85px;
+    font-family: 'Brush Script MT', cursive;
+}
+.block{
+    margin-bottom: 20px;
+}
